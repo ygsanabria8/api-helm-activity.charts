@@ -3,12 +3,22 @@ entries:
   api-helm:
   - apiVersion: v2
     appVersion: "7"
-    created: "2024-08-26T20:45:15.145229737-05:00"
+    created: "2024-08-26T20:52:19.741710121-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 7ca2b46677723875bc52fe4098fbbe2b4aa244cc0129b5bff8a4a179d8803e3c
+    name: api-helm
+    type: application
+    urls:
+    - https://ygsanabria8.github.io/api-helm-activity.charts/api-helm-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: "7"
+    created: "2024-08-26T20:52:19.740312121-05:00"
     description: A Helm chart for Kubernetes
     digest: e4eb8e6c9842e953515590573414ee0ba8b59740d454d11a87d2a149f97b687e
     name: api-helm
     type: application
     urls:
-    - api-helm-1.0.0.tgz
+    - https://ygsanabria8.github.io/api-helm-activity.charts/api-helm-1.0.0.tgz
     version: 1.0.0
-generated: "2024-08-26T20:45:15.143463651-05:00"
+generated: "2024-08-26T20:52:19.738425176-05:00"
