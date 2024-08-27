@@ -3,7 +3,17 @@ entries:
   api-helm:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-08-26T20:01:37.923367052-05:00"
+    created: "2024-08-26T20:05:01.568888008-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 11388829b5aa7a34eb0fbec52c4244dcde182cf8375d26b6b87ed5f4699a94bd
+    name: api-helm
+    type: application
+    urls:
+    - api-helm-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2024-08-26T20:05:01.567434526-05:00"
     description: A Helm chart for Kubernetes
     digest: a24d50d8fd14610aaa5e9cdbca0d9e5be438a2ba4397d2cf2dad0bb9563bc7fa
     name: api-helm
@@ -11,4 +21,4 @@ entries:
     urls:
     - api-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-26T20:01:37.921054298-05:00"
+generated: "2024-08-26T20:05:01.565749841-05:00"
